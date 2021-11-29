@@ -1,7 +1,5 @@
 # Desafio Piloto: Página de Receita
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vitorgaletti/
-desafio-piloto-pagina-de-receita?color=%2304D361">
 
 ## :rocket: Sobre o desafio
 
